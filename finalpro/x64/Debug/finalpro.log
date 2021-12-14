@@ -1,0 +1,3 @@
+﻿  kafe.cpp
+C:\Users\ProBook\source\repos\finalpro\finalpro\kafe.cpp(23,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  finalpro.vcxproj -> C:\Users\ProBook\source\repos\finalpro\x64\Debug\finalpro.exe
